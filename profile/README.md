@@ -3,7 +3,7 @@
 `cwhip` is the Cwhip compiler: a statically typed language with classes,
 inheritance, managed strings and collections, exceptions, and native bindings.
 The frontend is C++17 and the runtime is C. Source files use the `.cw`
-extension. Source: [github.com/chucktilbury/cwhip](https://github.com/cwhip-lang/cwhip).
+extension. Source: [github.com/cwhip-lang/cwhip](https://github.com/cwhip-lang/cwhip).
 The project website is [cwhip.org](https://cwhip.org).
 
 This directory contains the compiler in `src/`, runtime headers in `include/`,
